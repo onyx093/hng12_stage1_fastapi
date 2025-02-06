@@ -24,7 +24,7 @@ A simple FastAPI-based public API returning an email, current UTC time, and GitH
 
 ```
 git clone https://github.com/onyx093/hng12_stage1_fastapi
-cd fastapi-public-api
+cd hng12_stage1_fastapi
 ```
 
 2. Install dependencies:
